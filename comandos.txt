@@ -1,8 +1,10 @@
 
 
 git status
+  *Muestra estado, si tenemos algo de codigo pendiente de commit
 
 git show
+  *Muestra el último cambio realizado y sincronizado.
 
 git diff
 
@@ -22,8 +24,10 @@ git commit -m "volvemos atras titulo"
 git push 
   * Sincroniza la rama que queramos (UP SUBE nuevas lineas de local a github)
 git remote
+
 git remote  -v
-git push origin master 
+  *Servidores remotos
+git push (servidor)origin (RAMA)master 
 
 git pull origin master
   * Sincroniza la rama que queramos (DOWN descarga nuevas lineas a local)
