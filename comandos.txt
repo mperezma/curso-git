@@ -29,14 +29,16 @@ git remote  -v
   *Servidores remotos
 git push (servidor)origin (RAMA)master 
 
-git add .
-git push .
-
+-------------
+git commit (archivo o '.'todo)  *guardamos cambios de ese archivo
+git add . *anadimos cambios
+git push . * sube cambios a github
+-------------------------------
 git pull origin master
   * Sincroniza la rama que queramos (DOWN descarga nuevas lineas a local)
 git log
 
 git checkout caracteristica-nueva(rama)
   *CAMBIAMOS DE RAMA VER CONSOLA
-  
+
 
