@@ -63,5 +63,10 @@ git log --graph --decorate  --oneline --all
 git add css
 
 
-gi
+## PRATICAR CONFLICTOS 
+
 ---------------------------------
+#LIMPIEZA Y ELIMINAR RAMAS
+git branch -d nombre-de-la-rama
+* -d no funciona si vas a perder trabajo.
+(comprueba que esta rama esta integrada en master )
