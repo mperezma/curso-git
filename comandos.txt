@@ -57,5 +57,5 @@ git merge
 git branck
 
 # ver las ramas de un proyecto
-git log --decorate 
+git log --graph --decorate  --oneline --all
 ---------------------------------
