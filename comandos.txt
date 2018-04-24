@@ -51,11 +51,17 @@ git checkout -b nueva-rama-la-crea-nueva
 
 #prueba de fusion de ramas
 *permite integrar código de una rama dentro de otra
-git merge
+git merge master nueva-rama "podemos hacer tamb checkout master y luego git merge"
 
 #ver en que rama estamos 
 git branck
 
 # ver las ramas de un proyecto
 git log --graph --decorate  --oneline --all
+
+#añadimos carpeta para css
+git add css
+
+
+gi
 ---------------------------------
