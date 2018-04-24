@@ -46,5 +46,5 @@ git log
 git checkout caracteristica-nueva(rama)
   *CAMBIAMOS DE RAMA VER CONSOLA
 
-
+#crear una nueva rama
 git checkout -b nueva-rama-la-crea-nueva
