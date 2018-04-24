@@ -33,6 +33,7 @@ git push (servidor)origin (RAMA)master
 git commit (archivo o '.'todo)  *guardamos cambios de ese archivo
 #TODO A LA VEZ ->  git commit comandos.txt && git add comandos.txt && git push
 #                  git commit .  && git add . && git push
+#                  git commit -am "volvemos atras titulo" &&  git add . && git push
 
 git add . *anadimos cambios
 git push . * sube cambios a github
