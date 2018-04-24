@@ -70,3 +70,14 @@ git add css
 git branch -d nombre-de-la-rama
 * -d no funciona si vas a perder trabajo.
 (comprueba que esta rama esta integrada en master )
+
+#eliminar forzadamente sin comprobar
+git branch -D nombre-de-la-rama
+
+git gc (limpia basura y compacta ramas eliminadas)
+
+
+git commit --amend 
+* con este  comando podemos editar el último commit.
+* ADVERTENCIA no se debe hacer si ya hemos hecho push (enviado a git)
+*Conflictos , no se puede mezclar, no coinciden ids de los commits.
