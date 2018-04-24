@@ -46,11 +46,16 @@ git log
 git checkout caracteristica-nueva(rama)
   *CAMBIAMOS DE RAMA VER CONSOLA
 
-#crear una nueva rama
+#crear una nueva rama, "ir a la rama creandola antes"
 git checkout -b nueva-rama-la-crea-nueva
 
 #prueba de fusion de ramas
 *permite integrar código de una rama dentro de otra
 git merge
 
+#ver en que rama estamos 
+git branck
+
+# ver las ramas de un proyecto
+git log --decorate 
 ---------------------------------
