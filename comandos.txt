@@ -50,6 +50,7 @@ git checkout caracteristica-nueva(rama)
 git checkout -b nueva-rama-la-crea-nueva
 
 #prueba de fusion de ramas
-
 *permite integrar código de una rama dentro de otra
 git merge
+
+---------------------------------
