@@ -6,8 +6,8 @@ git status
 git show
   *Muestra el último cambio realizado y sincronizado.
 
-git diff
-
+git diff master nueva-rama-
+  *Muestra las diferencias entre 2 ramas
 git add index.html
 
 
