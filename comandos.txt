@@ -1,4 +1,8 @@
+#######################
 
+COMANDOS ÚTILES GIT 
+
+########################
 
 git status
   *Muestra estado, si tenemos algo de codigo pendiente de commit
