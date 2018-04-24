@@ -1,0 +1,31 @@
+
+
+git status
+
+git show
+
+git diff
+
+git add index.html
+
+
+reset HEAD index.html
+
+git commit index.html index.html -a
+git commit index.html -a
+
+git commit index.html
+
+git reset --soft HEAD~1
+
+git commit -m "volvemos atras titulo"
+git push 
+  * Sincroniza la rama que queramos (UP SUBE nuevas lineas de local a github)
+git remote
+git remote  -v
+git push origin master 
+
+git pull origin master
+  * Sincroniza la rama que queramos (DOWN descarga nuevas lineas a local)
+git log
+
