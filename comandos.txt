@@ -81,14 +81,12 @@ git branch -D nombre-de-la-rama
 git gc (limpia basura y compacta ramas eliminadas)
 
 
-
 git commit --amend 
 * con este  comando podemos editar el último commit.
 * ADVERTENCIA no se debe hacer si ya hemos hecho push (enviado a git)
 *Conflictos , no se puede mezclar, no coinciden ids de los commits.
 
-# Fusionando Ramas (cerrar ramas)
-//Vamos a la rama Master -> git checkout master
-//Fusionamos cerramos ramas
-git merge master nueva-rama-
+#renombrar Ramas
+$ git branch -m nombre-rama nombre-rama-nueva
+ git push origin rama-thema-azul
 
