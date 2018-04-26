@@ -99,3 +99,6 @@ ISSUE
 
 #comentarios en commit  
 Referenciar #1. en los comentarios.
+
+Cerrar issues
+#-> Closes #2
