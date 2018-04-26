@@ -95,3 +95,7 @@ $ git branch -m nombre-rama nombre-rama-nueva
  !!Ver lenguaje de Marcas Smartdown!!
 
 
+ISSUE
+
+#comentarios en commit  
+Referenciar #1. en los comentarios.
