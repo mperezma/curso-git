@@ -132,5 +132,8 @@ Tiene defusion, se hace desde la web , vale para hacer code review, comentarios 
 
 
 
+escribir codigo coloreado en la wiki
 
-
+'''html
+<h1> hola </h1>
+'''
