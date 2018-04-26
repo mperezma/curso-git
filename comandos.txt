@@ -102,3 +102,32 @@ Referenciar #1. en los comentarios.
 
 Cerrar issues
 #-> Closes #2
+
+Crear Organizaciones
+
+Fork, crea copia - Boton fork.
+Copia repositorio a tu cuenta.
+Editar o mejorar , luego subir al forz original del dueño del proyecto.
+
+
+//Imaginemos que hacemos 2 cambios unos en archivo.php y otro en stylos
+
+
+Hacemos commit y luego queremos volver atrás para separar cambios en 2 commits,#eliminar cambios
+git reset HEAD . (eliminamos los cambios del ultimo commit)
+
+#añadiento trozos de codigo  para trocear cambios
+git add -p archivo.php 
+#Muestra las lineas de cambios , añadir y , n 
+Luego hacemos git commit del archivo.php , comentamos los cambios y guardamos,
+
+Ahora hacemos git add . añade el resto de cambios, git commit .  (y comentamos lo que hace esta parte)
+
+Ahora hacemos  git push para subir cambios.
+
+
+
+
+
+
+
