@@ -127,6 +127,9 @@ Ahora hacemos  git push para subir cambios.
 
 
 
+# pull request , subir cambios o versiones a otros proyectos que hicimos fork.
+Tiene defusion, se hace desde la web , vale para hacer code review, comentarios etc..
+
 
 
 
