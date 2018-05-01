@@ -1,5 +1,5 @@
 # Curso Git
-
+https://slides.com/jesusamoros/deck-1/
 ## Sesión 1
 * ### Introducción
     * Problema a la hora de trabajar sin scv
