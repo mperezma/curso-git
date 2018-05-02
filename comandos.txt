@@ -4,6 +4,15 @@ COMANDOS ÚTILES GIT
 
 ##########################
 
+Creamos una carpeta en nuestri directorio
+y tecleamos 
+git init 
+creamos un archivo README
+git add README  // añadimos fichero readme
+git commint -m 'BotTelegram' // guardamos con comentarios
+
+
+
 git status
   *Muestra estado, si tenemos algo de codigo pendiente de commit
 
@@ -79,7 +88,8 @@ git branch -d nombre-de-la-rama
 git branch -D nombre-de-la-rama
 
 git gc (limpia basura y compacta ramas eliminadas)
-
+This account is owned by a business.
+See our Corporate Terms of Service for details. 
 
 git commit --amend 
 * con este  comando podemos editar el último commit.
