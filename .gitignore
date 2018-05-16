@@ -1,2 +1,5 @@
 ignorar.py
 directorio/
+*.txt
+directorio/*.jpg
+directorio/wiki*
